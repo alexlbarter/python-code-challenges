@@ -5,7 +5,7 @@ def sum_number_digits(number):
     def sum_digits(digits):
         return sum(digits)
 
-    while len(str(number) > 1):
+    while len(str(number)) > 1:
         number = sum_digits(split_digits(number))
 
     return number
