@@ -31,6 +31,11 @@ A collection of code challenges that I have completed in Python.
 > ["hive", "eh", "hive"]  # invalid - "hive" has already been said
 > ```
 > 
-> Write a Shiritori class with two instance methods: `play` and `restart`.
+> Write a Shiritori class with two instance attributes: `words`, a list of words that have already been used and `game_over`, and two instance methods: `play` and `restart`. 
+> 
+> * The `play` method should take a word as an argument, check if it follows the rules, and if so, add it to the `words` list.
+> If it breaks either rule, it should set `game_over` to `True`, and return `"game over"`.
+> 
+> * The `restart` method should reset the `words` list, and set `game_over` to `False`.
 
 *Source: [edabit.com](https://edabit.com/challenge/dLnZLi8FjaK6qKcvv)*
