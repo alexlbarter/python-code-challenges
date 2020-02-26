@@ -10,14 +10,14 @@ A collection of code challenges that I have completed in Python.
 *Source: [edabit.com](https://edabit.com/challenge/veCWQHJNgeZQCNbdY)*
 
 ## Rearrange the number
-###### /rearrange-the-number
+###### [/rearrange-the-number](rearrange-the-number)
 
 > Given a number `n`, return the **difference** between the *maximum* and *minimum* numbers that can be formed when the digits are rearranged.
 
 *Source: [edabit.com](https://edabit.com/challenge/jwzAdBnJnBxCe4AXP)*
 
 ## Shiritori
-###### /shiritori
+###### [/shiritori](shiritori)
 
 > Implement an English twist on the Japanese word game Shiritori. The basic premise is to follow two rules:
 > 
