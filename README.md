@@ -1,5 +1,4 @@
 # Python Code Challenges
-###### python-code-challenges
 
 A collection of code challenges that I have completed in Python.
 
@@ -33,5 +32,5 @@ A collection of code challenges that I have completed in Python.
 > ```
 > 
 > Write a Shiritori class with two instance methods: `play` and `restart`.
->
+
 *Source: [edabit.com](https://edabit.com/challenge/dLnZLi8FjaK6qKcvv)*
