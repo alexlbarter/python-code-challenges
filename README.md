@@ -8,14 +8,14 @@ A collection of code challenges that I have completed in Python.
 
 > Given a positive integer `n`, sum all of its digits. Repeat this until the result is one digit long, then return it.
 
-*Source: (edabit.com)[https://edabit.com/challenge/veCWQHJNgeZQCNbdY]*
+*Source: [edabit.com](https://edabit.com/challenge/veCWQHJNgeZQCNbdY)*
 
 ## Rearrange the number
 ###### /rearrange-the-number
 
 > Given a number `n`, return the **difference** between the *maximum* and *minimum* numbers that can be formed when the digits are rearranged.
 
-*Source: (edabit.com)[https://edabit.com/challenge/jwzAdBnJnBxCe4AXP]*
+*Source: [edabit.com](https://edabit.com/challenge/jwzAdBnJnBxCe4AXP)*
 
 ## Shiritori
 ###### /shiritori
@@ -34,4 +34,4 @@ A collection of code challenges that I have completed in Python.
 > 
 > Write a Shiritori class with two instance methods: `play` and `restart`.
 >
-*Source: (edabit.com)[https://edabit.com/challenge/dLnZLi8FjaK6qKcvv]*
+*Source: [edabit.com](https://edabit.com/challenge/dLnZLi8FjaK6qKcvv)*
