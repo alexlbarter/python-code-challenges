@@ -1,4 +1,12 @@
 def sum_number_digits(number):
+    try:
+        if number < 0:
+            raise ValueError("{} is not positive")
+        if number % 1 != 0:
+            raise ValueError("{} is not an integer")
+    except TypeError:
+        raise ValueError("{} is not a number")
+
     def split_digits(num):
         return [int(x) for x in str(num)]
 
