@@ -20,10 +20,11 @@ class TestAddDigits(unittest.TestCase):
             self.assertEqual(add_digits.sum_number_digits(case[0]), case[1])
 
         # Test errors
-        self.assertRaises(ValueError, add_digits.sum_number_digits, -1)
-        self.assertRaises(ValueError, add_digits.sum_number_digits, 0.5)
-        self.assertRaises(ValueError, add_digits.sum_number_digits, "abc")
-        self.assertRaises(ValueError, add_digits.sum_number_digits, -2.7)
+        with self.assertRaises(ValueError):
+            add_digits.sum_number_digits(-1)
+            add_digits.sum_number_digits(0.5)
+            add_digits.sum_number_digits("abc")
+            add_digits.sum_number_digits(-2.7)
 
 
 if __name__ == "__main__":
