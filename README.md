@@ -39,3 +39,19 @@ A collection of code challenges that I have completed in Python.
 > * The `restart` method should reset the `words` list, and set `game_over` to `False`.
 
 *Source: [edabit.com](https://edabit.com/challenge/dLnZLi8FjaK6qKcvv)*
+
+## Simplified fractions
+###### [/simplified-fractions](simplified-fractions)
+
+> Create a function that returns the simplified version of a fraction
+>
+> Examples:
+> ```
+> simplify("4/6") → "2/3"
+> simplify("10/11") → "10/11"
+> simplify("100/400") → "1/4"
+> simplify("8/4") → "2"
+>
+> If an improper fraction can be simplified into an integer, the function should do so.
+
+*Source: [edabit.com](https://edabit.com/challenge/vQgmyjcjMoMu9YGGW)
