@@ -51,6 +51,7 @@ A collection of code challenges that I have completed in Python.
 > simplify("10/11") → "10/11"
 > simplify("100/400") → "1/4"
 > simplify("8/4") → "2"
+> ```
 >
 > If an improper fraction can be simplified into an integer, the function should do so.
 
