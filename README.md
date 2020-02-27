@@ -54,4 +54,4 @@ A collection of code challenges that I have completed in Python.
 >
 > If an improper fraction can be simplified into an integer, the function should do so.
 
-*Source: [edabit.com](https://edabit.com/challenge/vQgmyjcjMoMu9YGGW)
+*Source: [edabit.com](https://edabit.com/challenge/vQgmyjcjMoMu9YGGW)*
