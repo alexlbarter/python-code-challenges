@@ -2,7 +2,11 @@ from math import gcd
 
 
 def simplify(fraction):
-    num, den = [int(x) for x in fraction.split("/")]
+    try:
+        num, den = [int(x) for x in fraction.split("/")]
+    except (AttributeError, ValueError):
+        raise ValueError("{} is not a fraction in form 'a/b'".format(fraction))
+
     if num % den == 0:
         return str(int(num / den))
     else:
