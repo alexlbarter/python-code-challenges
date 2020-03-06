@@ -56,3 +56,14 @@ A collection of code challenges that I have completed in Python.
 > If an improper fraction can be simplified into an integer, the function should do so.
 
 *Source: [edabit.com](https://edabit.com/challenge/vQgmyjcjMoMu9YGGW)*
+
+## Primitive Pythagorean triples
+###### [/primitive-pythagorean-triples](primitive-pythagorean-triples)
+
+> Given an unordered list of three numbers, first check if they are a Pythagorean triple, i.e.
+> ```
+> a^2 + b^2 = c^2, c > a, b
+> ```
+> return `True` if all of the numbers are pairwise coprime, i.e. each pair of numbers share no factors, `False` otherwise.
+
+*Source: [edabit.com](https://edabit.com/challenge/vLLXeQH5tgyvbzYZS)*
