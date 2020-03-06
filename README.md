@@ -3,21 +3,21 @@
 A collection of code challenges that I have completed in Python.
 
 ## Sum digits of number
-###### [/sum-digits-of-number](sum-digits-of-number)
+###### [/challenges/sum-digits-of-number](challenges/sum-digits-of-number)
 
 > Given a positive integer `n`, sum all of its digits. Repeat this until the result is one digit long, then return it.
 
 *Source: [edabit.com](https://edabit.com/challenge/veCWQHJNgeZQCNbdY)*
 
 ## Rearrange the number
-###### [/rearrange-the-number](rearrange-the-number)
+###### [/challenges/rearrange-the-number](challenges/rearrange-the-number)
 
 > Given a number `n`, return the **difference** between the *maximum* and *minimum* numbers that can be formed when the digits are rearranged.
 
 *Source: [edabit.com](https://edabit.com/challenge/jwzAdBnJnBxCe4AXP)*
 
 ## Shiritori
-###### [/shiritori](shiritori)
+###### [/challenges/shiritori](challenges/shiritori)
 
 > Implement an English twist on the Japanese word game Shiritori. The basic premise is to follow two rules:
 > 
@@ -41,7 +41,7 @@ A collection of code challenges that I have completed in Python.
 *Source: [edabit.com](https://edabit.com/challenge/dLnZLi8FjaK6qKcvv)*
 
 ## Simplified fractions
-###### [/simplified-fractions](simplified-fractions)
+###### [/challenges/simplified-fractions](challenges/simplified-fractions)
 
 > Create a function that returns the simplified version of a fraction
 >
@@ -58,7 +58,7 @@ A collection of code challenges that I have completed in Python.
 *Source: [edabit.com](https://edabit.com/challenge/vQgmyjcjMoMu9YGGW)*
 
 ## Primitive Pythagorean triples
-###### [/primitive-pythagorean-triples](primitive-pythagorean-triples)
+###### [/challenges/primitive-pythagorean-triples](challenges/primitive-pythagorean-triples)
 
 > Given an unordered list of three numbers, first check if they are a Pythagorean triple, i.e.
 > ```
@@ -77,7 +77,7 @@ A collection of code challenges that I have completed in Python.
 *Source: [edabit.com](https://edabit.com/challenge/vLLXeQH5tgyvbzYZS)*
 
 ## The dice game
-###### [/dice-game](dice-game)
+###### [/challenges/dice-game](challenges/dice-game)
 
 > Four friends are playing a simple dice game (players are denoted `p1`, `p2`, `p3` and `p4`).
 > In each round, all players roll a pair of six-sided dice. The player with the lowest total score is removed.
