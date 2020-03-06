@@ -64,6 +64,14 @@ A collection of code challenges that I have completed in Python.
 > ```
 > a^2 + b^2 = c^2, c > a, b
 > ```
-> return `True` if all of the numbers are pairwise coprime, i.e. each pair of numbers share no factors, `False` otherwise.
+> Return `True` if all of the numbers are pairwise coprime, i.e. each pair of numbers share no factors, `False` otherwise.
+>
+> Examples:
+> ```
+> is_primitive([4, 5, 3]) → True
+> is_primitive([7, 12, 13]) → False
+> is_primitive([39, 15, 36]) → False
+> is_primitive([77, 36, 85]) → True
+> ```
 
 *Source: [edabit.com](https://edabit.com/challenge/vLLXeQH5tgyvbzYZS)*
