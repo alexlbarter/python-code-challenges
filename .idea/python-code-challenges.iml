@@ -7,6 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/shiritori" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/simplified-fractions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/primitive-pythagorean-triples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dice-game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenges/dice-game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenges/primitive-pythagorean-triples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenges/rearrange-the-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenges/shiritori" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenges/simplified-fractions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenges/sum-digits-of-number" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (python-code-challenges)" jdkType="Python SDK" />
